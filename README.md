@@ -1,8 +1,12 @@
 # Vue 3 + Vite + Tailwind
 
+## Installieren
+
+- dieses Repo clonen
+- npm install
+
 ## Starten
 
-- npm install
 - npm run dev
 
 ## Recommended IDE Setup
